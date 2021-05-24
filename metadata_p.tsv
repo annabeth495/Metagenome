@@ -1,0 +1,243 @@
+	Name	Type_of_birthgiving	nab	Ab_days_after_birth	no	Breast_treatment	Sampling	Anest	Epiziotom	Gender	Pregnancy_number	Age	Blood_type	RF	Fe_intake	Old	Nationality	IMT	Nikotin	GSD	Oksitocine	L.Reuteri	Stationary_time
+1	Gavrilova	VR	nab	nab	no	m	r	na	e	zh	first	25-29	B	Positive	None	No	russian	NA	None	None	Yes	None	normal
+100	Iskanderova-2	VR	nab	ab	no	kh	ms	sma	e	zh	first	up to 25	O	Positive	Fe	No	non_russian	normal	None	None	Yes	None	long
+101	Sabirchonzoda	VR	nab	nab	no	kh	ms	na	na	zh	else	up to 25	A	Positive	None	No	non_russian	normal	None	None	Yes	None	normal
+102	Karimova	VR	nab	nab	no	kh	ms	na	e	zh	else	over 40	O	Positive	Fe	No	non_russian	normal	None	None	Yes	None	normal
+103	Karapetian	VR	nab	nab	no	kh	ms	na	e	m	else	25-29	A	Positive	None	No	russian	high	None	None	Yes	None	normal
+104	Lunina	KS	nab	ab	yes	kh	ms	sma	na	zh	first	30-34	A	Positive	Fe	No	russian	normal	None	None	Yes	None	long
+105	Tashieva	VR	nab	nab	no	kh	ms	na	na	zh	else	30-34	O	Positive	Fe	No	non_russian	normal	None	None	No	None	long
+106	Ilina	KS	nab	ab	no	kh	ms	sma	na	m	else	30-34	A	Positive	None	No	russian	normal	None	None	Yes	None	normal
+107	Mamarizaeva	EKS	nab	ab	no	kh	ms	sma	na	m	first	up to 25	O	Positive	Fe	No	non_russian	low	None	None	Yes	None	long
+108	Narzikulova	VR	nab	nab	no	kh	ms	sma	e	m	first	up to 25	A	Positive	Fe	No	non_russian	normal	None	None	Yes	None	normal
+109	Saparalieva	VR	ab	nab	yes	kh	ms	sma	na	m	first	25-29	O	Positive	None	No	non_russian	normal	None	None	Yes	None	normal
+10m	Ivanchikova	EKS	nab	ab	no	m	r	na	na	m	else	30-34	A	Positive	None	Yes	russian	normal	None	None	Yes	None	long
+11	Martynova	VR	nab	ab	yes	m	r	na	na	zh	first	25-29	O	Positive	None	No	russian	normal	None	None	Yes	None	normal
+110	Mahmudoloeva	VR	nab	nab	no	f	r	na	e	zh	else	up to 25	O	Negative	Fe	No	non_russian	normal	None	None	No	None	normal
+111	Dubrovskaia	EKS	nab	ab	no	kh	ms	sma	na	m	first	30-34	A	Positive	None	No	russian	normal	None	None	Yes	None	long
+112	Ozubekova	KS	nab	ab	no	kh	ms	sma	na	m	first	up to 25	A	Positive	Fe	No	non_russian	normal	None	None	Yes	None	long
+113	Radzhabova	VR	nab	nab	no	kh	ms	sma	na	zh	first	up to 25	A	Positive	None	No	non_russian	normal	None	None	Yes	None	long
+114	Kurbanova	VR	nab	nab	no	kh	ms	sma	na	zh	first	25-29	O	Positive	None	No	non_russian	obesity	None	GSD	Yes	None	long
+115	Sultanova	EKS	nab	ab	no	kh	ms	sma	na	m	else	up to 25	A	Positive	Fe	No	non_russian	normal	None	None	Yes	None	normal
+116	Sosina	KS	nab	ab	no	m	r	sma	na	m	else	25-29	B	Positive	Fe	No	russian	normal	None	None	Yes	None	long
+116m	Sosina	KS	nab	ab	no	m	r	sma	na	m	else	25-29	B	Positive	Fe	Yes	russian	normal	None	None	Yes	None	long
+117	Kiseeva	KS	nab	ab	no	kh	ms	sma	na	m	else	over 40	B	Positive	Fe	No	russian	normal	None	None	Yes	None	long
+118	Akramova	VR	nab	nab	no	kh	ms	na	na	m	else	25-29	A	Positive	Fe	No	non_russian	NA	None	None	Yes	None	normal
+119	Parvinai	VR	nab	nab	no	kh	ms	na	e	zh	first	up to 25	O	Negative	None	No	non_russian	normal	None	None	Yes	None	normal
+11m	Martynova	VR	nab	ab	no	m	r	na	na	zh	first	25-29	O	Positive	None	Yes	russian	normal	None	None	Yes	None	normal
+12	Gureeva	VR	nab	ab	no	m	r	na	na	m	else	25-29	A	Positive	Fe	No	non_russian	low	None	None	Yes	None	long
+120	Baisaiakova	VR	ab	ab	no	kh	ms	sma	na	zh	else	35-39	B	Positive	Fe	No	non_russian	normal	None	None	Yes	None	normal
+123	Berezhnaia	KS	nab	ab	no	kh	ms	etn	na	m	else	25-29	A	Positive	Fe	No	russian	obesity	None	None	Yes	None	long
+124	Sustova	KS	nab	ab	no	kh	ms	sma	na	zh	else	35-39	A	Positive	Fe	No	russian	low	None	None	Yes	L.Reuteri	normal
+124m	Sustova	KS	nab	ab	no	kh	ms	sma	na	zh	else	35-39	A	Positive	Fe	Yes	russian	low	None	None	Yes	L.Reuteri	normal
+125	Petrosian	KS	nab	ab	no	kh	ms	sma	na	m	first	35-39	A	Positive	Fe	No	russian	normal	None	None	Yes	None	normal
+126	Baisaiakova3	KS	nab	ab	no	kh	ms	na	na	zh	first	25-29	A	Positive	Fe	No	non_russian	high	None	None	Yes	None	long
+127	Smagulova	VR	nab	nab	no	kh	ms	na	na	m	else	over 40	O	Positive	Fe	No	non_russian	normal	None	None	Yes	None	normal
+129	Utiuzh	KS	nab	ab	no	kh	ms	etn	na	zh	first	25-29	O	Positive	Fe	No	russian	normal	None	None	Yes	None	long
+130	Kamilova	VR	nab	nab	no	kh	ms	na	na	m	else	25-29	A	Positive	None	No	non_russian	normal	Smoking	None	No	None	normal
+131	Astafeva	KS	nab	ab	no	kh	ms	sma	na	zh	first	25-29	A	Positive	Fe	No	russian	normal	None	None	Yes	None	long
+132	Mamasaidova	VR	nab	nab	no	kh	ms	sma	na	m	first	up to 25	O	Positive	Fe	No	non_russian	low	None	None	Yes	None	long
+133	Zimenskaia	KS	nab	ab	no	kh	ms	sma	na	zh	first	up to 25	A	Positive	Fe	No	russian	normal	None	None	Yes	None	normal
+133m	Zimenskaia	KS	nab	ab	no	kh	ms	sma	na	zh	first	up to 25	A	Positive	Fe	Yes	russian	normal	None	None	Yes	None	normal
+134	Safarova	VR	nab	nab	no	kh	ms	na	na	m	else	30-34	A	Positive	Fe	No	non_russian	normal	None	None	Yes	None	normal
+135	Sorokina	KS	nab	ab	no	kh	ms	sma	na	m	else	30-34	O	Positive	None	No	russian	low	None	None	Yes	None	long
+136	Rakhimova	VR	nab	nab	no	kh	ms	na	e	zh	else	25-29	B	Positive	None	No	non_russian	NA	None	None	Yes	None	normal
+137	Kekebaeva	EKS	nab	ab	no	kh	ms	sma	na	m	else	25-29	O	Positive	None	No	russian	obesity	None	None	Yes	None	long
+138	Gazina	VR	nab	nab	no	kh	ms	na	na	m	else	30-34	B	Positive	None	No	non_russian	normal	None	None	Yes	None	normal
+139	Lomakina	VR	nab	nab	no	kh	ms	sma	e	m	first	up to 25	O	Positive	None	No	russian	high	None	None	Yes	None	normal
+139m	Lomakina	VR	nab	nab	no	kh	ms	sma	e	m	first	up to 25	O	Positive	None	Yes	russian	high	None	None	Yes	None	normal
+14	Lunkova	KS	nab	ab	no	m	r	sma	na	zh	first	25-29	B	Positive	None	No	russian	normal	None	None	Yes	L.Reuteri	normal
+140	Saioridinova	VR	nab	nab	yes	kh	ms	na	e	m	first	up to 25	AB	Positive	Fe	No	non_russian	NA	None	None	No	None	normal
+141	Kurganskaia	EKS	ab	ab	yes	kh	ms	sma	na	m	first	25-29	A	Positive	Fe	No	russian	normal	None	None	Yes	L.Reuteri	normal
+142	Savchuk	EKS	nab	ab	no	kh	ms	sma	na	m	first	30-34	A	Positive	Fe	No	russian	normal	None	None	Yes	None	long
+142m	Savchuk	EKS	nab	ab	no	kh	ms	sma	na	m	first	30-34	A	Positive	Fe	Yes	russian	normal	None	None	Yes	None	long
+144	Ashurova	EKS	nab	ab	no	kh	ms	sma	na	m	else	25-29	B	Positive	Fe	No	non_russian	normal	None	None	Yes	None	normal
+145	Kuntsova	KS	nab	nab	no	kh	ms	sma	na	m	else	up to 25	O	Positive	None	No	russian	normal	None	GSD	No	None	normal
+146	Kurbanova2	KS	nab	ab	no	kh	r	sma	na	m	else	up to 25	O	Positive	Fe	No	non_russian	obesity	None	None	Yes	None	long
+147	Tabieva	VR	nab	nab	no	kh	ms	sma	e	m	first	up to 25	A	Positive	Fe	No	non_russian	normal	None	None	No	None	normal
+148	KHidireva	VR	nab	nab	no	kh	r	na	na	m	else	up to 25	A	Positive	Fe	No	non_russian	normal	None	None	Yes	None	normal
+14m	Lunkova	KS	nab	ab	no	m	r	sma	na	zh	first	25-29	B	Positive	None	Yes	russian	normal	None	None	Yes	None	normal
+149	Azimova	VR	nab	nab	yes	kh	r	na	e	m	first	up to 25	A	Positive	Fe	No	non_russian	low	None	None	No	None	normal
+150	Sarantseva	KS	nab	nab	no	kh	ms	na	na	m	first	30-34	O	Positive	None	No	russian	high	None	GSD	No	None	NA
+151	Litvin	EKS	nab	ab	yes	kh	ms	sma	na	m	first	25-29	O	Positive	Fe	No	russian	normal	None	None	Yes	None	long
+152	Rasulova	VR	nab	nab	no	kh	r	na	na	m	else	35-39	B	Positive	None	No	non_russian	normal	None	None	No	None	normal
+153	Avlileva	VR	nab	nab	no	kh	r	etn	e	zh	first	up to 25	O	Positive	Fe	No	non_russian	low	None	None	Yes	None	normal
+154	Vasilchenko	KS	nab	ab	no	kh	ms	sma	na	m	else	30-34	O	Positive	None	No	russian	obesity	None	GSD	Yes	None	long
+155	Bobokhanova	VR	nab	nab	no	kh	ms	na	na	m	else	25-29	B	Positive	Fe	No	non_russian	NA	None	None	Yes	None	normal
+156	Nurbaeva	EKS	nab	ab	no	kh	ms	sma	na	zh	first	35-39	A	Positive	None	No	russian	normal	None	None	Yes	None	normal
+157	Ali-kyzy	VR	nab	nab	no	kh	ms	na	na	m	else	25-29	AB	Positive	Fe	No	non_russian	normal	None	None	Yes	None	long
+158	Mamieva	KS	nab	ab	no	kh	ms	sma	na	zh	first	25-29	A	Positive	Fe	No	non_russian	normal	None	None	Yes	None	long
+159	Karpova	KS	nab	ab	no	kh	ms	etn	na	m	else	25-29	B	Positive	Fe	No	russian	low	None	None	Yes	None	normal
+15m	Sodatkadamova	VR	nab	ab	no	m	r	sma	e	m	first	up to 25	O	Positive	Fe	Yes	non_russian	normal	None	None	Yes	None	normal
+160	Bal	VR	ab	nab	yes	kh	ms	na	e	m	first	30-34	O	Positive	None	No	russian	high	None	None	No	None	long
+161	Mirkosimzoda	VR	nab	nab	no	kh	ms	na	na	m	else	25-29	A	Positive	Fe	No	non_russian	normal	None	None	Yes	None	normal
+162	Rakhmanova	VR	nab	nab	no	kh	ms	etn	e	m	first	25-29	B	Positive	Fe	No	non_russian	normal	None	None	Yes	None	normal
+163	Mamyratova	VR	nab	nab	no	kh	ms	na	na	m	else	30-34	O	Positive	Fe	No	non_russian	normal	None	None	Yes	None	normal
+164	KHazova	KS	nab	ab	no	kh	ms	sma	na	zh	else	35-39	B	Positive	Fe	No	russian	high	None	None	Yes	None	long
+165	Trifan	KS	nab	ab	no	kh	ms	sma	na	m	first	up to 25	A	Negative	Fe	No	russian	normal	None	None	Yes	None	long
+166	Abdurakhimova	VR	nab	nab	yes	kh	ms	sma	e	m	first	up to 25	B	Positive	Fe	No	non_russian	high	None	None	Yes	None	long
+167	Dzhafarova	VR	nab	nab	yes	kh	ms	na	na	m	else	up to 25	A	Positive	None	No	non_russian	high	None	None	Yes	None	normal
+168	Ismailova	KS	nab	ab	no	kh	ms	sma	na	m	else	25-29	AB	Positive	Fe	No	non_russian	NA	None	None	Yes	None	long
+169	Abdylbaeva	VR	nab	nab	no	kh	ms	na	e	m	first	up to 25	A	Positive	Fe	No	non_russian	normal	None	None	Yes	None	long
+16m	Dmitrieva	KS	nab	ab	no	m	r	sma	na	m	else	35-39	O	Negative	None	Yes	russian	normal	None	None	Yes	None	long
+170	Ibragimova	VR	nab	nab	no	kh	ms	na	na	zh	else	35-39	B	Positive	None	No	non_russian	high	None	None	Yes	None	normal
+171	Shadrina	VR	nab	nab	no	kh	ms	sma	e	zh	first	30-34	O	Negative	Fe	No	russian	high	None	None	No	None	long
+172	SHlygina	EKS	nab	ab	no	kh	ms	sma	na	zh	first	25-29	A	Positive	Fe	No	russian	normal	None	None	Yes	None	long
+173	CHistoeva	KS	nab	ab	no	kh	ms	sma	na	zh	first	up to 25	O	Positive	Fe	No	russian	low	None	None	Yes	None	long
+174	Fefalova	KS	nab	ab	no	kh	ms	sma	na	zh	first	25-29	AB	Positive	Fe	No	russian	normal	None	None	Yes	L.Reuteri	long
+174m	Fefalova	KS	nab	ab	no	kh	ms	sma	na	zh	first	25-29	AB	Positive	Fe	Yes	russian	normal	None	None	Yes	L.Reuteri	long
+175	Temirbaeva	VR	nab	nab	no	kh	ms	na	na	zh	else	25-29	AB	Positive	Fe	No	non_russian	normal	None	None	Yes	None	normal
+176	Kozhina	KS	nab	ab	no	kh	ms	sma	na	zh	else	30-34	A	Positive	None	No	russian	high	None	None	Yes	None	normal
+176m	Kozhina	KS	nab	ab	no	kh	ms	sma	na	zh	else	30-34	A	Positive	None	Yes	russian	high	None	None	Yes	None	normal
+177	Abdulloeva	VR	nab	nab	no	kh	ms	na	na	m	else	25-29	B	Positive	None	No	non_russian	NA	None	None	No	None	NA
+178	Seiitova Oksana	VR	nab	ab	no	kh	ms	etn	e	m	else	30-34	O	Positive	Fe	No	non_russian	high	None	None	Yes	None	normal
+179	Tishkina	VR	ab	nab	yes	kh	ms	na	e	m	else	30-34	B	Positive	None	No	russian	normal	None	None	No	None	long
+180	Kiriazhenkova	VR	nab	nab	no	kh	r	na	na	zh	else	30-34	A	Positive	None	No	russian	high	None	None	No	None	NA
+181	KHmurets	VR	nab	nab	no	kh	r	na	na	m	first	35-39	A	Positive	None	No	russian	normal	None	None	No	None	normal
+182	Vorobeva	VR	nab	nab	no	kh	r	sma	e	m	first	30-34	O	Positive	None	No	russian	high	None	None	Yes	None	long
+183	Narozhnaia	EKS	nab	ab	no	kh	r	sma	na	zh	first	25-29	B	Positive	None	No	russian	normal	None	None	Yes	None	normal
+184	Parshinskaya	VR	nab	nab	no	kh	ms	sma	e	m	first	25-29	O	Negative	Fe	No	russian	normal	None	None	Yes	None	normal
+186	Ismailova	VR	nab	nab	no	kh	ms	na	na	m	else	over 40	O	Positive	None	No	non_russian	NA	None	None	No	None	NA
+187	Romanova	KS	nab	ab	no	kh	ms	etn	na	m	else	35-39	B	Positive	None	No	russian	NA	None	None	Yes	None	long
+188	Ikramova	VR	nab	nab	no	kh	ms	na	na	m	else	over 40	B	Positive	None	No	non_russian	NA	None	None	No	None	NA
+189	Kretova	VR	nab	nab	no	kh	ms	na	na	m	else	30-34	O	Positive	None	No	russian	obesity	None	None	Yes	None	normal
+19	Zentsova	VR	nab	nab	no	m	r	na	e	m	first	25-29	B	Positive	None	No	russian	normal	None	None	No	None	long
+190	Osetrinkina	KS	nab	ab	no	kh	ms	sma	na	zh	else	25-29	A	Positive	Fe	No	russian	normal	None	None	Yes	None	long
+191	Bashkalina	VR	nab	nab	no	kh	ms	na	e	m	else	30-34	A	Positive	None	No	russian	normal	None	None	Yes	None	normal
+192	Fillipova	VR	nab	nab	no	kh	ms	sma	e	zh	first	25-29	O	Positive	Fe	No	russian	normal	None	GSD	Yes	None	NA
+193	Lysenko	EKS	nab	ab	no	kh	ms	sma	na	m	first	up to 25	O	Positive	None	No	russian	normal	None	None	Yes	None	normal
+193m	Lysenko	EKS	nab	ab	no	kh	ms	sma	na	m	first	up to 25	O	Positive	None	Yes	russian	normal	None	None	Yes	None	normal
+194	SHaminitdinova	VR	nab	nab	yes	kh	ms	sma	e	m	first	up to 25	B	Positive	None	No	non_russian	high	None	None	Yes	None	normal
+195	Mukhtarova	VR	nab	nab	no	kh	ms	etn	na	m	else	30-34	B	Positive	Fe	No	non_russian	obesity	None	None	Yes	None	long
+196	Tokaeva	VR	nab	nab	no	kh	ms	na	na	m	else	35-39	O	Negative	Fe	No	non_russian	normal	None	None	Yes	None	normal
+197	Leonova	VR	nab	nab	no	kh	ms	sma	na	m	first	up to 25	B	Positive	None	No	russian	normal	None	GSD	Yes	None	normal
+198	Elizarova2	VR	nab	nab	no	kh	r	na	e	zh	else	25-29	A	Positive	Fe	No	russian	normal	None	None	Yes	None	long
+199	Reut	VR	nab	ab	no	kh	ms	na	na	zh	else	35-39	B	Positive	None	No	russian	normal	None	None	Yes	None	normal
+19m	Zentsova	VR	nab	nab	no	m	r	na	e	m	first	25-29	B	Positive	None	Yes	russian	normal	None	None	No	None	long
+20	CHerniavskaia	VR	nab	nab	yes	m	r	na	e	m	first	30-34	A	Positive	None	No	russian	normal	None	None	No	None	long
+20m	CHerniavskaia	VR	nab	nab	no	m	r	na	e	m	first	30-34	A	Positive	None	Yes	russian	normal	None	None	No	None	long
+201	Zaitseva	VR	nab	nab	no	kh	ms	na	e	zh	else	30-34	A	Positive	Fe	No	russian	low	None	None	Yes	None	normal
+202	Inzanova	KS	nab	ab	no	kh	ms	sma	na	zh	first	25-29	O	Positive	None	No	non_russian	normal	None	None	Yes	None	long
+203	Madulloeva	KS	nab	ab	no	kh	ms	sma	na	m	else	35-39	O	Positive	Fe	No	non_russian	normal	None	None	Yes	None	long
+204	Bagdasaryan	VR	nab	nab	yes	kh	ms	sma	e	zh	first	up to 25	B	Negative	None	No	russian	low	None	None	Yes	None	normal
+205	Kleimonova	KS	nab	ab	no	kh	ms	sma	na	m	else	30-34	A	Positive	Fe	No	russian	normal	None	None	Yes	None	long
+206	Vorobeva2	KS	nab	nab	no	kh	r	na	na	zh	else	over 40	O	Positive	None	No	russian	high	None	None	No	None	NA
+207	Smailova	KS	nab	ab	no	kh	r	sma	na	zh	first	35-39	B	Positive	None	No	non_russian	obesity	None	GSD	Yes	None	long
+208	Ashurova	VR	nab	ab	no	kh	ms	etn	e	m	first	up to 25	A	Positive	Fe	No	non_russian	low	None	None	Yes	None	long
+209	KHansimsoda	VR	nab	nab	no	kh	ms	na	na	m	else	25-29	O	Positive	None	No	russian	normal	None	None	Yes	None	normal
+21	Demenshina	VR	nab	nab	no	m	r	na	e	zh	else	30-34	O	Positive	None	No	russian	high	None	None	No	None	normal
+21m	Demenshina	VR	nab	nab	no	m	r	na	e	zh	else	30-34	O	Positive	None	Yes	russian	high	None	None	No	None	normal
+210	Galina	VR	nab	nab	no	kh	ms	na	na	m	first	30-34	B	Positive	None	No	non_russian	high	None	GSD	Yes	None	normal
+211	Levitanskaya	KS	nab	ab	yes	kh	ms	sma	na	zh	first	25-29	O	Negative	Fe	No	russian	normal	None	None	Yes	None	long
+212	Sidorenko	VR	nab	nab	no	kh	ms	na	e	zh	else	35-39	A	Positive	None	No	russian	obesity	None	GSD	Yes	None	normal
+213	Usmanova	KS	nab	ab	no	kh	r	sma	na	m	else	over 40	O	Positive	Fe	No	non_russian	obesity	None	None	Yes	None	long
+214	Karimova2	VR	nab	nab	yes	kh	ms	na	na	zh	first	30-34	AB	Positive	None	No	non_russian	normal	None	None	No	None	normal
+215	Diukhova	VR	nab	nab	no	kh	r	sma	e	zh	first	35-39	AB	Positive	None	No	russian	normal	None	None	Yes	None	normal
+216	Valchevskaia	VR	nab	nab	no	kh	ms	na	na	m	first	25-29	A	Positive	None	No	russian	normal	None	None	Yes	None	normal
+217	Belozor	VR	nab	nab	yes	kh	r	na	e	zh	first	25-29	AB	Positive	None	No	russian	normal	None	GSD	No	None	normal
+218	Koichumanova	VR	nab	nab	no	kh	r	na	na	m	first	25-29	B	Positive	None	No	non_russian	low	None	None	No	None	normal
+219	Sergeeva	KS	nab	ab	no	kh	r	sma	na	zh	else	35-39	A	Positive	None	No	russian	NA	None	None	Yes	None	long
+22	Ermakova	VR	nab	ab	no	m	r	na	na	zh	else	30-34	A	Positive	Fe	No	russian	normal	None	None	Yes	None	long
+220	Semennikova	VR	nab	nab	no	kh	r	sma	na	zh	else	30-34	A	Negative	Fe	No	russian	normal	None	None	None	None	long
+221	Gamaonova	VR	nab	nab	no	kh	r	sma	na	m	first	25-29	A	Positive	None	No	non_russian	normal	None	None	Yes	None	normal
+222	Nabichonova	VR	nab	nab	no	kh	r	na	na	zh	else	up to 25	B	Negative	Fe	No	non_russian	normal	None	None	None	None	normal
+223	SHarova	KS	nab	nab	no	kh	r	na	na	zh	else	up to 25	A	Positive	None	No	russian	obesity	None	None	No	None	normal
+224	CHerniakova	VR	ab	nab	no	kh	r	sma	na	m	else	30-34	AB	Positive	None	No	russian	high	None	None	Yes	None	long
+225	Eshova	VR	nab	nab	no	kh	r	sma	e	zh	first	25-29	B	Positive	Fe	No	non_russian	normal	None	None	No	None	long
+226	Grebennikova	VR	nab	nab	no	kh	r	na	na	m	else	25-29	B	Positive	None	No	russian	normal	None	None	No	None	normal
+227	Nikulova	VR	nab	nab	yes	kh	r	sma	na	m	first	up to 25	O	Negative	None	No	non_russian	normal	None	None	Yes	None	normal
+228	Ergashboeva	VR	nab	nab	no	kh	ms	na	na	m	first	up to 25	A	Positive	Fe	No	non_russian	normal	None	None	No	None	long
+229	KHudzhova	VR	nab	nab	no	kh	r	na	na	zh	else	35-39	B	Positive	None	No	non_russian	normal	None	None	No	None	normal
+23	Mikhailova	VR	nab	nab	no	m	r	sma	na	zh	first	25-29	A	Positive	None	No	russian	normal	None	None	No	None	long
+23m	Mikhailova	VR	nab	nab	no	m	r	sma	na	zh	first	25-29	A	Positive	None	Yes	russian	normal	None	None	No	None	long
+24	ZHeelbaeva	VR	nab	nab	no	m	r	na	na	m	else	35-39	B	Positive	Fe	No	non_russian	normal	None	None	No	None	long
+25	Grabarchuk	VR	nab	nab	no	m	r	na	e	m	else	25-29	O	Negative	None	No	russian	normal	None	None	No	None	normal
+25m	Grabarchuk	VR	nab	nab	no	m	r	na	e	m	else	25-29	O	Negative	None	Yes	russian	normal	None	None	No	None	normal
+26	Kozlova	VR	nab	nab	no	m	r	sma	e	m	first	30-34	AB	Positive	Fe	No	russian	high	None	None	No	None	long
+26m	Kozlova	VR	nab	nab	no	m	r	sma	e	m	first	30-34	AB	Positive	Fe	Yes	russian	high	None	None	No	None	long
+27	Petrova	VR	nab	nab	no	m	r	na	na	zh	else	30-34	B	Positive	Fe	No	russian	normal	None	None	Yes	None	normal
+28	SHanzhaeva	VR	nab	nab	no	m	r	na	na	zh	else	up to 25	A	Positive	None	No	russian	high	None	GSD	No	None	normal
+29	Akhunova	VR	nab	nab	no	m	r	etn	e	zh	first	25-29	A	Positive	None	No	russian	high	None	None	No	None	normal
+29m	Akhunova	VR	nab	nab	no	m	r	etn	e	zh	first	25-29	A	Positive	None	Yes	russian	high	None	None	No	None	normal
+2m	Neveikina	VR	nab	nab	no	m	r	na	na	m	else	30-34	B	Positive	None	Yes	russian	normal	None	None	Yes	None	normal
+30	Polegueva	VR	nab	nab	no	m	r	na	e	m	first	30-34	A	Negative	Fe	No	russian	normal	None	None	No	None	normal
+30m	Polegueva	VR	nab	nab	no	m	r	na	e	m	first	30-34	A	Negative	Fe	Yes	russian	normal	None	None	No	None	normal
+31	Smirnova	VR	nab	nab	no	f	r	na	e	zh	first	up to 25	O	Positive	Fe	No	russian	normal	None	None	No	None	long
+32	Demchenko	KS	nab	ab	no	m	r	sma	na	m	else	30-34	A	Positive	None	No	russian	normal	None	None	Yes	None	long
+34	Kolodezhnaia	KS	ab	ab	yes	m	r	sma	na	m	else	30-34	O	Positive	None	No	russian	normal	None	None	Yes	None	long
+35	Iliushina	KS	nab	ab	no	m	r	sma	na	zh	else	30-34	A	Positive	None	No	russian	normal	None	None	Yes	None	long
+36	Kirichenko	VR	nab	ab	no	m	r	na	na	zh	else	30-34	A	Positive	None	No	russian	obesity	Smoking	None	Yes	None	normal
+36m	Kirichenko	VR	nab	ab	no	m	r	na	na	zh	else	30-34	A	Positive	None	Yes	russian	obesity	Smoking	None	Yes	None	normal
+37	Gorina	VR	nab	nab	no	f	r	na	na	m	first	30-34	O	Positive	None	No	russian	normal	None	None	Yes	None	normal
+37m	Gorina	VR	nab	nab	no	f	r	na	na	m	first	30-34	O	Positive	None	Yes	russian	normal	None	None	Yes	None	normal
+39	Solovieva	VR	nab	nab	no	m	r	na	e	m	first	30-34	A	Negative	None	No	russian	normal	None	None	No	None	normal
+39m	olovieva	VR	nab	nab	no	m	r	na	e	m	first	30-34	A	Negative	None	Yes	russian	normal	None	None	No	None	normal
+3m	Kashitsina	KS	nab	ab	no	m	r	sma	na	m	else	30-34	O	Positive	None	Yes	russian	normal	None	None	Yes	None	long
+4	Lisitsina	KS	nab	ab	no	m	r	etn	na	m	first	up to 25	A	Positive	None	No	russian	normal	None	None	No	L.Reuteri	normal
+40	Zelianina	VR	nab	nab	no	f	r	na	e	m	else	30-34	O	Positive	None	No	russian	normal	None	None	Yes	None	normal
+40m	Zelianina	VR	nab	nab	no	f	r	na	e	m	else	30-34	O	Positive	None	Yes	russian	normal	None	None	Yes	None	normal
+41	SHeliutova	VR	nab	nab	no	f	r	na	e	m	else	30-34	AB	Positive	None	No	russian	high	None	None	Yes	None	long
+41m	SHeliutova	VR	nab	nab	no	f	r	na	e	m	else	30-34	AB	Positive	None	Yes	russian	high	None	None	Yes	None	long
+42	Fillipova	KS	nab	ab	no	f	r	sma	na	zh	else	25-29	A	Positive	None	No	russian	normal	None	None	Yes	None	long
+43	Melkumian	KS	nab	ab	no	f	r	sma	na	m	else	30-34	O	Positive	Fe	No	russian	normal	None	None	Yes	L.Reuteri	normal
+43m	Melkumian	KS	nab	ab	no	f	r	sma	na	m	else	30-34	O	Positive	Fe	Yes	russian	normal	None	None	Yes	L.Reuteri	normal
+44	Zaitseva	VR	nab	nab	no	m	r	na	e	zh	else	up to 25	O	Positive	Fe	No	russian	normal	None	None	Yes	None	normal
+45	Moskalenko	KS	nab	nab	no	f	ms	na	na	zh	else	25-29	A	Positive	None	No	russian	normal	Smoking	None	No	None	long
+46	Lokhova	KS	nab	ab	no	f	ms	sma	na	zh	first	25-29	AB	Positive	Fe	No	russian	normal	None	None	Yes	None	normal
+47	Vinokur	VR	nab	nab	no	f	ms	na	na	m	else	30-34	A	Positive	None	No	russian	normal	None	None	No	None	long
+47m	Vinokur	VR	nab	nab	no	f	ms	na	na	m	else	30-34	A	Positive	None	Yes	russian	normal	None	None	No	None	long
+49	KHelaeva	KS	nab	ab	no	f	ms	sma	na	zh	first	up to 25	A	Positive	Fe	No	non_russian	normal	None	None	Yes	None	normal
+4m	Lisitsina	KS	nab	ab	no	m	r	etn	na	m	first	up to 25	A	Positive	None	Yes	russian	normal	None	None	No	None	normal
+50	Generalova	VR	nab	nab	no	f	ms	na	na	m	else	35-39	A	Positive	None	No	russian	normal	None	GSD	Yes	None	normal
+52	Katan	KS	nab	ab	yes	f	ms	sma	na	zh	else	30-34	A	Positive	None	No	russian	obesity	None	None	Yes	None	long
+54	Kuzkina	KS	nab	ab	yes	m	r	etn	na	zh	first	30-34	A	Positive	Fe	No	russian	normal	None	None	Yes	None	long
+55	Kaziarian	KS	nab	ab	yes	m	r	sma	na	m	first	up to 25	O	Positive	Fe	No	russian	normal	None	None	Yes	None	long
+56	Romashkina	KS	nab	ab	yes	f	r	sma	na	m	first	35-39	A	Positive	None	No	russian	normal	None	None	Yes	None	long
+57m	Goriachaia	KS	nab	nab	no	m	r	na	na	zh	else	over 40	O	Positive	None	Yes	russian	normal	None	None	Yes	None	long
+58	Ahmedova	KS	nab	ab	no	f	r	sma	na	zh	else	35-39	O	Negative	None	No	non_russian	normal	None	None	Yes	L.Reuteri	normal
+58m	Ahmedova	KS	nab	ab	no	f	r	sma	na	zh	else	35-39	O	Negative	None	Yes	non_russian	normal	None	None	Yes	L.Reuteri	normal
+5m	Arslanbekova	VR	nab	nab	no	m	r	na	na	zh	else	30-34	B	Positive	Fe	Yes	non_russian	normal	None	None	Yes	None	normal
+60	Osipova	KS	nab	ab	yes	m	r	sma	na	m	else	30-34	O	Positive	None	No	russian	normal	None	None	Yes	None	long
+61	Ushakova	KS	nab	ab	no	m	r	sma	na	zh	else	25-29	A	Positive	None	No	russian	normal	None	None	Yes	None	long
+62	ZHdanova	KS	nab	ab	no	m	r	sma	na	zh	else	30-34	O	Positive	None	No	russian	high	None	GSD	Yes	None	long
+62m	ZHdanova	KS	nab	ab	no	m	r	sma	na	zh	else	30-34	O	Positive	None	Yes	russian	high	None	GSD	Yes	None	long
+65	Smirnova	VR	nab	nab	no	m	r	na	na	zh	else	30-34	O	Positive	None	No	russian	normal	None	None	Yes	None	normal
+65m	Smirnova	VR	nab	nab	no	m	r	na	na	zh	else	30-34	O	Positive	None	Yes	russian	normal	None	None	Yes	None	normal
+67	Proshina	VR	nab	nab	yes	f	ms	sma	e	zh	else	over 40	B	Positive	Fe	No	russian	normal	None	None	Yes	None	normal
+68	Alekseeva	KS	nab	ab	no	f	ms	etn	na	zh	else	up to 25	B	Positive	Fe	No	russian	high	None	None	Yes	None	long
+69	Suloina	EKS	nab	ab	no	f	ms	sma	na	m	else	35-39	O	Negative	Fe	No	russian	NA	None	GSD	Yes	None	long
+6m	Turganova	KS	nab	ab	no	m	r	na	na	zh	else	35-39	A	Positive	None	Yes	non_russian	high	None	None	Yes	None	normal
+7	Menua	EKS	nab	ab	no	m	r	sma	na	m	first	35-39	B	Positive	None	No	russian	normal	None	None	Yes	None	normal
+70	Zavarzina	KS	nab	ab	no	f	ms	sma	na	zh	else	35-39	B	Positive	Fe	No	russian	normal	None	None	Yes	None	normal
+71	Kulmamatova	KS	nab	nab	no	f	ms	na	na	zh	else	25-29	A	Positive	Fe	No	non_russian	NA	None	None	No	None	NA
+73	Penkina	VR	nab	nab	yes	m	r	na	e	zh	else	30-34	B	Positive	None	No	russian	normal	None	None	Yes	None	long
+73m	Penkina	VR	nab	nab	no	m	r	na	e	zh	else	30-34	B	Positive	None	Yes	russian	normal	None	None	Yes	None	long
+74	Demina	EKS	nab	ab	no	m	r	sma	na	zh	else	30-34	O	Negative	Fe	No	russian	high	None	None	Yes	L.Reuteri	normal
+74m	Demina	EKS	nab	ab	no	m	r	sma	na	zh	else	30-34	O	Negative	Fe	Yes	russian	high	None	None	Yes	L.Reuteri	normal
+75	Elizarova	KS	nab	ab	no	m	r	sma	na	zh	else	30-34	A	Negative	None	No	russian	normal	None	None	Yes	None	long
+77	Gureva	VR	ab	nab	yes	f	r	na	e	zh	first	up to 25	B	Positive	None	No	russian	normal	None	None	No	None	normal
+78	Vasilieva	VR	nab	nab	no	f	r	na	e	m	else	25-29	A	Negative	Fe	No	russian	high	None	None	No	None	normal
+79	Iskanderova	VR	nab	nab	yes	m	r	na	e	zh	else	25-29	AB	Negative	Fe	No	russian	normal	None	GSD	Yes	None	normal
+79m	Iskanderova	VR	nab	nab	no	m	r	na	e	zh	else	25-29	AB	Negative	Fe	Yes	russian	normal	None	GSD	Yes	None	normal
+7m	Menua	EKS	nab	ab	no	m	r	sma	na	m	first	35-39	B	Positive	None	Yes	russian	normal	None	None	Yes	None	normal
+8	Mudriak	VR	nab	nab	yes	m	r	na	na	m	else	30-34	O	Positive	Fe	No	russian	normal	None	None	No	None	normal
+80	Furtseva	VR	nab	nab	no	kh	ms	etn	na	zh	first	30-34	O	Positive	Fe	No	russian	normal	None	None	Yes	None	normal
+80m	Furtseva	VR	nab	nab	no	kh	ms	etn	na	zh	first	30-34	O	Positive	Fe	Yes	russian	normal	None	None	Yes	None	normal
+81	Riabukhina	VR	nab	ab	no	kh	ms	etn	e	zh	else	30-34	A	Positive	Fe	No	russian	normal	None	None	Yes	None	long
+81m	Riabukhina	VR	nab	ab	no	kh	ms	etn	e	zh	else	30-34	A	Positive	Fe	Yes	russian	normal	None	None	Yes	None	long
+82	Musaeva	VR	nab	ab	no	f	r	etn	na	m	else	25-29	B	Positive	Fe	No	non_russian	normal	None	None	Yes	None	long
+83	Talbanova	EKS	ab	ab	no	kh	ms	sma	na	zh	first	up to 25	A	Positive	Fe	No	non_russian	normal	None	None	Yes	None	long
+84	Garusova	VR	nab	nab	no	kh	ms	sma	na	m	first	30-34	A	Positive	None	No	russian	normal	None	None	No	None	normal
+85	Odinaeva	KS	nab	ab	no	kh	ms	sma	na	zh	first	up to 25	O	Negative	None	No	non_russian	high	None	None	Yes	None	long
+86	Tashtemirova	EKS	nab	ab	no	kh	ms	sma	na	m	first	35-39	O	Positive	Fe	No	non_russian	normal	None	None	Yes	None	long
+87	Sosnovikova	VR	nab	ab	no	kh	ms	sma	na	m	first	30-34	O	Positive	Fe	No	russian	low	None	None	Yes	None	long
+87m	Sosnovikova	VR	nab	ab	no	kh	ms	sma	na	m	first	30-34	O	Positive	Fe	Yes	russian	low	None	None	Yes	None	long
+88	Darakhova	VR	nab	nab	yes	kh	ms	na	e	m	first	25-29	AB	Positive	None	No	non_russian	low	None	None	Yes	None	normal
+8m	Mudriak	VR	nab	nab	no	m	r	na	na	m	else	30-34	O	Positive	Fe	Yes	russian	normal	None	None	No	None	normal
+90	Gevorgian	VR	nab	nab	no	kh	ms	na	na	zh	else	25-29	A	Positive	None	No	russian	normal	None	None	Yes	None	long
+91	Gafarova	KS	nab	ab	no	m	r	sma	na	zh	else	30-34	O	Positive	None	No	non_russian	normal	None	None	Yes	None	long
+92	Ovchinnikova	EKS	nab	ab	yes	kh	ms	etn	na	zh	else	30-34	O	Positive	None	No	russian	obesity	None	None	Yes	None	normal
+93	Kydyralieva	VR	nab	nab	yes	kh	ms	na	na	zh	else	30-34	A	Positive	Fe	No	non_russian	low	None	None	Yes	None	normal
+94	Kniazeva	EKS	nab	ab	no	kh	ms	sma	na	m	first	35-39	A	Positive	Fe	No	russian	obesity	None	None	Yes	None	normal
+95	Paskar	EKS	nab	ab	no	kh	ms	sma	na	m	first	30-34	B	Positive	None	No	russian	high	None	None	Yes	None	normal
+98	Obidova	VR	nab	nab	no	kh	ms	na	na	zh	else	30-34	A	Positive	Fe	No	non_russian	normal	None	None	Yes	None	normal
+99	Musaeva 2	VR	nab	nab	yes	kh	ms	na	e	zh	first	up to 25	A	Positive	Fe	No	non_russian	normal	None	None	No	None	long
